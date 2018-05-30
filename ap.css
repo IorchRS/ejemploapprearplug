@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans);
+
+body {
+  padding-bottom:200px;
+  text-align:center;
+  font-family:'droid sans', sans-serif;
+}
+p.scroll {
+  height:800px;
+  font-size:20px;
+}
+.animated {
+  display: inline-block;
+  position: relative !important;
+  background-color:#333;
+  color:#fff;
+  padding:15px 30px 17px;
+  -webkit-animation-delay:0s;
+  font-size:25px;
+  border-radius:8px;
+  font-family:'raleway', sans-serif;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation-duration: 2s;
+}
